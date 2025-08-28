@@ -2,3 +2,4 @@
 
 Notes and usage details for cursor-history.
 - link the usage section
+- add a note about the defaults
